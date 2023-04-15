@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CustomButtonBar</string>
+    <string name="home">Inicio</string>
+    <string name="likes">Me gustas</string>
+    <string name="notifications">Notificaciones</string>
+    <string name="profile">Perfil</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
